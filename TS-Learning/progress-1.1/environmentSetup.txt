@@ -34,5 +34,5 @@ Step 5: Running the Code
 Using Node.js:
 Now, we'll use Node.js to interpret and execute our JavaScript code.
 Navigate to the directory containing the generated JavaScript file.
-Run the command node helloworld.ts in the terminal.
+Run the command node helloworld.js in the terminal.
 You should see the output of our TypeScript code, "Hello, World!", displayed in the terminal.
