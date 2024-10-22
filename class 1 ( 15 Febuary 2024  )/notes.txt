@@ -1,0 +1,1 @@
+In this introductory class, we went over the basics of what TypeScript is and how it can be used. No specific technical content or coding was covered in this session. The class served as an orientation to set expectations and outline the course structure.

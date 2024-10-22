@@ -1,0 +1,50 @@
+1. What is the command to install Node.js dependencies globally?
+   a) npm install typescript
+   b) npm install --save typescript
+   c) npm install --global typescript
+   d) npm install --dev typescript
+
+2. Which of the following is the correct website to download Visual Studio Code?
+   a) https://visualstudio.microsoft.com/
+   b) https://code.visualstudio.com/
+   c) https://vscode.org/
+   d) https://visualstudio.com/
+
+3. What command is used to compile a TypeScript file named "helloworld.ts" to JavaScript?
+   a) node helloworld.ts
+   b) tsc helloworld.js
+   c) tsc helloworld.ts
+   d) npm run helloworld.ts
+
+4. After transpiling TypeScript to JavaScript, what command is used to run the JavaScript file?
+   a) tsc helloworld.js
+   b) run helloworld.js
+   c) node helloworld.js
+   d) execute helloworld.js
+
+5. What is the purpose of the `tsc --init` command?
+   a) To install TypeScript globally
+   b) To initialize a new TypeScript project and create a tsconfig.json file
+   c) To transpile TypeScript code to JavaScript
+   d) To run a TypeScript file
+
+6. Which of the following commands watches for changes in the TypeScript file and recompiles automatically?
+   a) tsc --init
+   b) tsc -w
+   c) tsc --watch-all
+   d) tsc compile
+
+7. What is the correct order of steps for setting up the environment, installing TypeScript, and running a TypeScript file?
+   a) Install Node.js, create directory, install TypeScript, open in VS Code, create TypeScript file, transpile, run
+   b) Create directory, install Node.js, install TypeScript, open in VS Code, create TypeScript file, run, transpile
+   c) Install TypeScript, install Node.js, create directory, open in VS Code, create TypeScript file, transpile, run
+   d) Create directory, install Node.js, open in VS Code, create TypeScript file, install TypeScript, transpile, run
+
+Answers:
+1. c) npm install --global typescript
+2. b) https://code.visualstudio.com/
+3. c) tsc helloworld.ts
+4. c) node helloworld.js
+5. b) To initialize a new TypeScript project and create a tsconfig.json file
+6. b) tsc -w
+7. a) Install Node.js, create directory, install TypeScript, open in VS Code, create TypeScript file, transpile, run

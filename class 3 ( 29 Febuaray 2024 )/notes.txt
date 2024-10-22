@@ -1,0 +1,33 @@
+Variable Declaration in JavaScript:
+
+1. Keywords for Declaring Variables:
+   - let: These variable values can be changed.
+   - const: These variable values cannot be changed.
+   - var: Previously used for variable declaration, but now 'let' has largely replaced 'var' due to its limitations.
+
+2. Differences between let, const, and var:
+   - var allows us to reuse the same variable name, which can lead to errors.
+   - let does not allow the same variable name to be used more than once.
+   - const is used when we do not want the value to change, e.g., account numbers, roll numbers, or CNICs.
+
+3. Example of Variable Usage:
+   - Account numbers cannot be changed, but the balance in the account can. Hence, we declare the account number using 'const' and the bank balance using 'let'.
+
+4. Variable Declaration:
+   - All three keywords (let, const, var) can be used to declare variables of any type: boolean, string, or number.
+   - let variables can be changed.
+   - const variables cannot be changed.
+
+5. Keywords in Programming:
+   - Keywords are predefined words in programming languages, like "Hey Google!" triggers a response from Google.
+   - In programming, we store values in variables to avoid repetition and improve code readability.
+
+6. TypeScript Concepts:
+   - INFERENCE: TypeScript automatically assigns a type to a value.
+   - STRONG TYPING: We explicitly define the type of a value, also known as implicit/strong typing.
+
+7. Naming Conventions:
+   - Use camelCase for variable names, e.g., favoriteColour.
+   - Ensure the second word's first letter is capitalized.
+
+By understanding these concepts, you can write more reliable and maintainable code.

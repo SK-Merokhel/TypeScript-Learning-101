@@ -1,0 +1,100 @@
+Week 6: Conceptual Test
+
+1. What is the primary purpose of using conditional statements in programming?
+   a) To execute code repeatedly
+   b) To enhance code readability
+   c) To declare variables
+   d) To perform mathematical operations
+
+2. What role does strong typing play in TypeScript?
+   a) It allows variables to change types dynamically
+   b) It improves code performance
+   c) It assigns types explicitly to variables
+   d) It reduces the need for conditional statements
+
+3. What does the '&&' logical operator do in TypeScript?
+   a) Checks if both operands are true
+   b) Checks if either operand is true
+   c) Inverts the boolean value of the operand
+   d) Assigns a value to a variable
+
+4. When would you use the '||' logical operator in TypeScript?
+   a) To combine multiple conditions where all must be true
+   b) To combine multiple conditions where at least one must be true
+   c) To negate a condition
+   d) To perform arithmetic operations
+
+5. In TypeScript, how does the '!' operator function?
+   a) It checks if two values are not equal
+   b) It inverts the boolean value of the operand
+   c) It performs addition
+   d) It assigns a value to a variable
+
+6. What is the significance of the 'if-else' statement in programming?
+   a) It allows sequential execution of code
+   b) It controls the flow of execution based on conditions
+   c) It defines variables with specific types
+   d) It prints output to the console
+
+7. Why is it important to use comparison operators like '==' and '===' carefully in TypeScript?
+   a) They are prone to syntax errors
+   b) They can lead to incorrect logical conditions
+   c) They only work with numeric values
+   d) They are slow in performance
+
+8. How do TypeScript's comparison operators '!=' and '!==' differ from '==' and '==='?
+   a) They are used for assignment instead of comparison
+   b) They check for inequality rather than equality
+   c) They are used exclusively with strings
+   d) They are not supported in TypeScript
+
+9. What is the purpose of using 'if-else if-else' chains in TypeScript?
+   a) To simplify complex calculations
+   b) To handle multiple conditions sequentially
+   c) To define variable types explicitly
+   d) To create loops in the code
+
+10. When is it appropriate to use the 'switch' statement instead of 'if-else' in TypeScript?
+    a) When there are only two possible outcomes
+    b) When there are multiple possible outcomes based on a single value
+    c) When dealing with asynchronous operations
+    d) When performing mathematical calculations
+
+11. How does TypeScript handle variables that are not explicitly typed (using 'any')?
+    a) It restricts them to specific types automatically
+    b) It allows them to hold any type of value
+    c) It throws a syntax error
+    d) It converts them to boolean values
+
+12. What is the key benefit of using TypeScript over plain JavaScript in terms of code maintenance?
+    a) TypeScript runs faster in web browsers
+    b) TypeScript allows for more complex logic
+    c) TypeScript catches type-related errors during development
+    d) TypeScript eliminates the need for conditional statements
+
+13. What is the output of the following TypeScript code snippet?
+
+let x: any = 5;
+let y: number = 10;
+console.log(x + y);
+
+a) 15
+b) "510"
+c) Error
+d) Undefined
+
+
+Answers:
+1. b) To enhance code readability
+2. c) It assigns types explicitly to variables
+3. a) Checks if both operands are true
+4. b) To combine multiple conditions where at least one must be true
+5. b) It inverts the boolean value of the operand
+6. b) It controls the flow of execution based on conditions
+7. b) They can lead to incorrect logical conditions
+8. b) They check for inequality rather than equality
+9. b) To handle multiple conditions sequentially
+10. b) When there are multiple possible outcomes based on a single value
+11. b) It allows them to hold any type of value
+12. c) TypeScript catches type-related errors during development
+13. a) 15

@@ -1,0 +1,71 @@
+1. What is the purpose of using 'const' when declaring variables in JavaScript?
+   a) To allow for reassignment of values
+   b) To prevent the variable from being declared globally
+   c) To ensure the variable value cannot be changed
+   d) To declare variables only within functions
+
+2. Which keyword was previously used for variable declaration in JavaScript but is now largely replaced by 'let'?
+   a) const
+   b) var
+   c) static
+   d) final
+
+3. What type of values can be assigned to a variable declared with 'let'?
+   a) Only numbers
+   b) Only strings
+   c) Any type of value
+   d) Only boolean values
+
+4. When should you use the 'any' type in TypeScript?
+   a) When you want to restrict the variable to a specific type
+   b) When you are unsure of the variable's type
+   c) When you want the variable to be a constant
+   d) When you want the variable to be a boolean
+
+5. What is the advantage of using TypeScript over JavaScript?
+   a) Faster execution speed
+   b) Stronger typing and type checking
+   c) Better compatibility with older browsers
+   d) Simpler syntax
+
+6. Which naming convention is recommended for variables in JavaScript and TypeScript?
+   a) snake_case
+   b) kebab-case
+   c) PascalCase
+   d) camelCase
+
+7. What does TypeScript's 'type inference' feature do?
+   a) Allows the compiler to automatically assign types to variables based on their usage
+   b) Forces the programmer to explicitly define types for all variables
+   c) Converts TypeScript code into JavaScript code
+   d) None of the above
+
+8. What is the purpose of the 'typeof' operator in JavaScript?
+   a) Checks if a variable is undefined
+   b) Determines the data type of a variable
+   c) Converts a string to a number
+   d) Checks if two variables are equal
+
+9. Which keyword is used to define a variable whose value can change?
+   a) const
+   b) let
+   c) var
+   d) static
+
+10. Why is 'let' preferred over 'var' in modern JavaScript development?
+    a) It allows block-scoped declarations
+    b) It is easier to type
+    c) It has been in JavaScript longer
+    d) It provides better performance
+
+Answers:
+1. c) To ensure the variable value cannot be changed
+2. b) var
+3. c) Any type of value
+4. b) When you are unsure of the variable's type
+5. b) Stronger typing and type checking
+6. d) camelCase
+7. a) Allows the compiler to automatically assign types to variables based on their usage
+8. b) Determines the data type of a variable
+9. b) let
+10. a) It allows block-scoped declarations

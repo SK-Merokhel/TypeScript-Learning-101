@@ -1,0 +1,90 @@
+1. What does the assignment operator '=' do in JavaScript?
+   a) Adds a value to a variable
+   b) Multiplies a value with a variable
+   c) Assigns a value to a variable
+   d) Divides a variable
+
+2. What will be the value of 'a' after the operation 'a += 5' if 'a' initially equals 10?
+   a) 5
+   b) 10
+   c) 15
+   d) 20
+
+3. Which operator in JavaScript combines assignment with addition?
+   a) ++
+   b) --
+   c) +=
+   d) *=
+
+4. According to BODMAS rule, what will be the result of the expression '4 + 7 * 9 / 3 - 4'?
+   a) 21
+   b) 30
+   c) 10
+   d) 3
+
+5. What is the purpose of the modulus operator (%) in JavaScript?
+   a) Adds two numbers
+   b) Divides one number by another and returns the quotient
+   c) Provides the remainder after division
+   d) Multiplies two numbers
+
+6. What is the result of '5 % 2'?
+   a) 0
+   b) 1
+   c) 2
+   d) 3
+
+7. What does the unary operator '++' do when used as a prefix (e.g., ++a)?
+   a) Decrements the value of 'a' after using it
+   b) Decrements the value of 'a' before using it
+   c) Increments the value of 'a' before using it
+   d) Increments the value of 'a' after using it
+
+8. Given 'let num = 0; console.log(num++); console.log(num);', what will be the output?
+   a) 0, 1
+   b) 1, 1
+   c) 0, 0
+   d) 1, 0
+
+9. What is the result of '10 * 2 / 5'?
+   a) 1
+   b) 2
+   c) 4
+   d) 10
+
+10. How is the Body Mass Index (BMI) calculated using weight and height?
+    a) BMI = weight * height
+    b) BMI = weight / height
+    c) BMI = weight / (height * height)
+    d) BMI = (weight + height) / 2
+
+11. In the expression 'n1 * n2 / (n3 + n4)', which operation is performed first?
+    a) Multiplication
+    b) Division
+    c) Addition
+    d) Subtraction
+
+12. What does a 'for' loop do in JavaScript?
+    a) Executes a block of code a specified number of times
+    b) Executes a block of code indefinitely
+    c) Skips a block of code
+    d) Executes a block of code only once
+
+Answers:
+1. c) Assigns a value to a variable
+2. c) 15
+3. c) +=
+4. a) 21
+5. c) Provides the remainder after division
+6. b) 1 
+
+TypeScript Example
+let result: number = 5 % 2;
+console.log(result); // Output: 1
+
+7. c) Increments the value of 'a' before using it
+8. a) 0, 1
+9. b) 4
+10. c) BMI = weight / (height * height)
+11. c) Addition
+12. a) Executes a block of code a specified number of times

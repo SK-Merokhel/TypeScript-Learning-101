@@ -1,0 +1,38 @@
+Step 1: Environment Setup
+
+Node.js Installation:
+Download and install Node.js from https://nodejs.org/. Node.js is required to run JavaScript code and comes with npm (Node Package Manager), which we'll use for managing dependencies.
+
+Visual Studio Code (VS Code) Installation:
+Download and install Visual Studio Code from https://code.visualstudio.com/. We'll use VS Code for writing our TypeScript code.
+
+Directory Setup:
+Create a directory on your desktop named "typescript_learning". Within this directory, create another directory named "class 2 ( 22 Febuarary 2024 )".
+
+Step 2: Installing TypeScript Compiler
+
+Install TypeScript Compiler:
+To compile TypeScript code, we need to install the TypeScript compiler globally using npm.
+Run the command npm install --global typescript in the terminal. This will install TypeScript globally on your system.
+
+Step 3: Initial Coding
+
+Open in VS Code:
+Open the "class 2 ( 22 Febuarary 2024 )" directory in VS Code using the terminal.
+
+Create a TypeScript File:
+Within this directory, create a new file named "helloworld.ts". This file will contain our initial TypeScript code.
+
+Step 4: Transpilation
+
+Transpile TypeScript to JavaScript:
+We'll use the TypeScript compiler (tsc) to convert our TypeScript code into JavaScript.
+Run the command tsc helloworld.ts in the terminal. This will generate a JavaScript file named "helloworld.js" in the same directory.
+
+Step 5: Running the Code
+
+Using Node.js:
+Now, we'll use Node.js to interpret and execute our JavaScript code.
+Navigate to the directory containing the generated JavaScript file.
+Run the command node helloworld.js in the terminal.
+You should see the output of our TypeScript code, "Hello, World!", displayed in the terminal.

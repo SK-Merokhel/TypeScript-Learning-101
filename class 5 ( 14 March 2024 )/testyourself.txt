@@ -1,0 +1,108 @@
+Week 5: Test Yourself
+
+1. What is the result of the expression '10 == 15'?
+   a) true
+   b) false
+   c) undefined
+   d) null
+
+2. What does the '!=' operator signify in JavaScript?
+   a) Less than
+   b) Not Equal to
+   c) Greater than
+   d) Equal to
+
+3. What will '12 > 10' evaluate to?
+   a) true
+   b) false
+   c) null
+   d) undefined
+
+4. Which logical operator requires all conditions on both sides to be true for the overall expression to be true?
+   a) And (&&)
+   b) Or (||)
+   c) Nor (!)
+   d) Xor (^)
+
+5. What will '5 > 0 && 2 < 0' evaluate to?
+   a) true
+   b) false
+   c) null
+   d) undefined
+
+6. What does the '||' operator signify in JavaScript?
+   a) And
+   b) Or
+   c) Nor
+   d) Not
+
+7. What will '!(5 < 6)' evaluate to?
+   a) true
+   b) false
+   c) null
+   d) undefined
+
+8. In JavaScript, what does an if-else statement do?
+   a) Executes a block of code only if a condition is true
+   b) Executes a block of code only if a condition is false
+   c) Executes a block of code regardless of any condition
+   d) None of the above
+
+9. Given the code:
+
+let age = 20;
+if (age >= 18) {
+console.log("Adult");
+} else {
+console.log("Child");
+}
+
+What will be the output?
+a) Adult
+b) Child
+c) Adult, Child
+d) No output
+
+10. What will be the output of the following code snippet?
+ ```
+ let marks = 75;
+ if (marks >= 90) {
+     console.log("A+");
+ } else if (marks >= 80) {
+     console.log("B");
+ } else if (marks >= 70) {
+     console.log("C");
+ } else {
+     console.log("Fail");
+ }
+ ```
+ a) A+
+ b) B
+ c) C
+ d) Fail
+
+11. Which comparison operator checks if one value is greater than or equal to another value?
+ a) >
+ b) <
+ c) >=
+ d) <=
+
+12. What does the '!=' operator mean in TypeScript?
+ a) Equal to
+ b) Not Equal to
+ c) Greater than
+ d) Less than
+
+Answers:
+1. b) false
+2. b) Not Equal to
+3. a) true
+4. a) And (&&)
+5. b) false
+6. b) Or
+7. b) false
+8. a) Executes a block of code only if a condition is true
+9. a) Adult
+10. c) C
+11. c) >=
+12. b) Not Equal to
